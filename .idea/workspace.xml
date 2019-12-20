@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32f8a5db-ccc0-493b-8f49-131c90819e8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Django-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FCILuxorDjango.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/background1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/bootstrap-4/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/css/middle_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/files/sample.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/background2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/dad.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/fb-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/prof.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/sad.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/img/twitter-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/js/jquery3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/static/mypf/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/csstemplatesmarket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/footer_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/icon_friends.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/icon_journal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/icon_photo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/list_checked.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/main_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/menu_checked.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/middle_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/more_link.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/photo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/photo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/images/welcome_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/templates/mypf/prof.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypf/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VE28DIWNODUHwazezacCqSGO3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django-master\mypf\static\mypf\bootstrap-4\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django-master" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="portfolio.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32f8a5db-ccc0-493b-8f49-131c90819e8a" name="Default Changelist" comment="" />
+      <created>1576803771325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576803771325</updated>
+      <workItem from="1576803802138" duration="6312000" />
+      <workItem from="1576810919509" duration="5783000" />
+      <workItem from="1576855660820" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1576818030256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576818030256" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1576818030256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576818030256" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1576818030255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576818030255" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1576818030256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576818030256" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576818030257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576818030257" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576818030257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576818030257" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576818030257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576818030257" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576818030257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576818030257" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576855694732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576855694732" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1576817523595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576817523595" />
+  </component>
+</project>
